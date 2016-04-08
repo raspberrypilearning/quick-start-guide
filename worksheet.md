@@ -37,6 +37,7 @@ It is best to format your SD card on your computer or laptop before copying the 
 1. When this process has finished, safely remove the SD card and insert it into your Raspberry Pi.
 
 <iframe src="https://player.vimeo.com/video/90518800" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p></p>
 
 ### Or download & image Raspbian
 An alternative to using NOOBS to install Raspbian, is to download and install the image directly. This is a faster process and great if you need to image multiple cards for a workshop or class.

@@ -63,6 +63,5 @@ An alternative to using NOOBS to install Raspbian, is to download and install th
 
 # What next?
 - Learn how to [update your SD Card](update-sd-card.md)
-- Check to see how much free space you have on your [SD card](checking-sd-space.md)
 - Connect your Raspberry Pi to [wifi](wifi.md)
 - Install more [applications](install-apps.md)

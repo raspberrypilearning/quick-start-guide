@@ -1,4 +1,4 @@
-# Example Resource
+# Quick Start Guide to Raspberry Pi
 
 ![](cover.png)
 

@@ -56,9 +56,9 @@ An alternative to using NOOBS to install Raspbian, is to download and install th
 [![Setting Up Raspberry Pi screenshot](https://i.vimeocdn.com/video/482234224.webp?mw=1920&mh=108)](https://vimeo.com/91631396)
 
 # First time you power on
-1. Once you have plugged in the power cable to your Raspberry Pi it will boot and if you are using NOOBS a window will appear with a list of different operating systems that you can install. We recommend that you use Raspbian – tick the box next to Raspbian and click on `Install`.
+1. Once you have plugged in the power cable to your Raspberry Pi it will boot and if you are using NOOBS a window will appear with a list of different operating systems that you can install. We recommend that you use Raspbian – tick the box next to Raspbian and click on **Install**.
 1. Raspbian will then run through its installation process. *Note this can take a while.*
-1. When the install process has completed, the Raspberry Pi configuration menu (`raspi-config`) will load. Here you are able to set the time and date for your region and enable a Raspberry Pi camera board, or even create users. You can exit this menu by using `Tab` on your keyboard to move to `Finish`.
+1. When the install process has completed, the Raspberry Pi configuration menu (`raspi-config`) will load. Here you are able to set the time and date for your region and enable a Raspberry Pi camera board, or even create users. You can exit this menu by using **Tab** on your keyboard to move to **Finish**.
 1. If you image Raspbian then you will boot directly to the desktop environment of Raspbian and will not need to wait.
 
 # What next?

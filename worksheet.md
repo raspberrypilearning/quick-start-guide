@@ -11,7 +11,9 @@ To get started with Raspberry Pi you also need an operating system. NOOBS (New O
 
 ### Buy a preinstalled SD Card
 
-The easiest way to get NOOBS or Raspbian is to buy an SD card with the software already installed, available at the [Swag Store](http://swag.raspberrypi.org/products/noobs-8gb-sd-card). Alternatively, if you have an SD card (8GB recommended), then you can download NOOBS or Raspbian for free and install it on your card.
+The easiest way to get NOOBS or Raspbian is to buy an SD card with the software already installed, available online from various resellers. If you have purchased one of these cards then you can skip to step 3 below.
+
+Alternatively, if you have an SD card (8GB recommended), then you can download NOOBS or Raspbian for free and install it on your card.
 
 ## Format your SD Card
 
@@ -34,7 +36,8 @@ It is best to format your SD card on your computer or laptop before copying the 
 1. The necessary files will then be transferred to your SD card.
 1. When this process has finished, safely remove the SD card and insert it into your Raspberry Pi.
 
-  [![Download and install NOOBS video](https://i.vimeocdn.com/video/469685790_100x75.webp)](https://vimeo.com/90518800)
+<iframe src="https://player.vimeo.com/video/90518800" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/90518800">Getting started with NOOBS</a> from <a href="https://vimeo.com/raspberrypi">Raspberry Pi Foundation</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 ### Or download & image Raspbian
 An alternative to using NOOBS to install Raspbian, is to download and install the image directly. This is a faster process and great if you need to image multiple cards for a workshop or class.
@@ -59,7 +62,8 @@ An alternative to using NOOBS to install Raspbian, is to download and install th
 1. When you are happy that you have plugged in all the cables and SD card required, finally plug in the micro usb power supply. This action will turn on and boot your Raspberry Pi.
 1. If this is the first time your Raspberry Pi and SD card have been used, then you will have to select an operating system and configure it.
 
-[![Setting Up Raspberry Pi screenshot](https://i.vimeocdn.com/video/482234224.webp?mw=1920&mh=108)](https://vimeo.com/91631396)
+<iframe src="https://player.vimeo.com/video/91631396" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/91631396">Setting up your Raspberry Pi</a> from <a href="https://vimeo.com/raspberrypi">Raspberry Pi Foundation</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 ## First time you power on
 1. Once you have plugged in the power cable to your Raspberry Pi it will boot and if you are using NOOBS a window will appear with a list of different operating systems that you can install. We recommend that you use Raspbian – tick the box next to Raspbian and click on **Install**.

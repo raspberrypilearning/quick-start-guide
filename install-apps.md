@@ -5,7 +5,7 @@ You can use text commands to download and install extra applications that you ma
 1. From a terminal window, or on the command line simply type `sudo apt-get install <name of software>` and press **Enter** on the keyboard.
 1. After searching for the package and downloading it, you will be asked if you want to continue with the installation. Press **Y** or **Enter** on the keyboard to continue.
 
-# What next?
+## What next?
 - Learn how to [update your SD Card](update-sd-card.md)
 - Connect your Raspberry Pi to [wifi](wifi.md)
 - Return to [quick start guide](worksheet.md)

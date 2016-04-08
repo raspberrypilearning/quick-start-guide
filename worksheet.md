@@ -2,18 +2,18 @@
 
 Got a Raspberry Pi? Great, let's get started by making sure you have all the cables and accessories before plugging them all in and logging in for the first time.
 
-# Check you have the equipment you need
+## Check you have the equipment you need
 Before you plug anything into your Raspberry Pi, make sure that you have [all the equipment listed here](https://www.raspberrypi.org/learning/quick-start-guide/requirements/)
 
 ![](images/all-the-things.png)
 
 To get started with Raspberry Pi you also need an operating system. NOOBS (New Out Of the Box Software) is an easy operating system install manager for the Raspberry Pi. *Raspbian* is the operating system that we use with the Raspberry Pi which you can download and image to an SD card.
 
-## Buy a preinstalled SD Card
+### Buy a preinstalled SD Card
 
 The easiest way to get NOOBS or Raspbian is to buy an SD card with the software already installed, available at the [Swag Store](http://swag.raspberrypi.org/products/noobs-8gb-sd-card). Alternatively, if you have an SD card (8GB recommended), then you can download NOOBS or Raspbian for free and install it on your card.
 
-# Format your SD Card
+## Format your SD Card
 
 It is best to format your SD card on your computer or laptop before copying the NOOBS files onto it or adding the Raspbian image. To do this:
 
@@ -24,7 +24,7 @@ It is best to format your SD card on your computer or laptop before copying the 
 
   ![](images/SD-Formatter.jpg)
 
-# Download & Drag and drop NOOBS files
+## Download & Drag and drop NOOBS files
 
 1. Using a computer with an SD card reader, visit the official Raspberry Pi [Downloads page](http://www.raspberrypi.org/downloads/).
 1. Click on **NOOBS**.
@@ -36,7 +36,7 @@ It is best to format your SD card on your computer or laptop before copying the 
 
   [![Download and install NOOBS video](https://i.vimeocdn.com/video/469685790_100x75.webp)](https://vimeo.com/90518800)
 
-# Or download & image Raspbian
+## Or download & image Raspbian
 An alternative to using NOOBS to install Raspbian, is to download and install the image directly. This is a faster process and great if you need to image multiple cards for a workshop or class.
 
 1. Using a computer with an SD card reader, visit the official Raspberry Pi [Downloads page](http://www.raspberrypi.org/downloads/).
@@ -50,7 +50,7 @@ An alternative to using NOOBS to install Raspbian, is to download and install th
 
   ![](images/etcher.gif)
 
-# Plugging in your Raspberry Pi
+## Plugging in your Raspberry Pi
 1. Begin by slotting your SD card into the SD card slot on the Raspberry Pi, which will only fit one way.
 1. Next, plug in your USB keyboard and Mouse into the USB slots on the Raspberry Pi.
 1. Make sure that your monitor or TV is turned on, and that you have selected the right input (e.g. HDMI 1, DVI, etc)
@@ -61,7 +61,7 @@ An alternative to using NOOBS to install Raspbian, is to download and install th
 
 [![Setting Up Raspberry Pi screenshot](https://i.vimeocdn.com/video/482234224.webp?mw=1920&mh=108)](https://vimeo.com/91631396)
 
-# First time you power on
+## First time you power on
 1. Once you have plugged in the power cable to your Raspberry Pi it will boot and if you are using NOOBS a window will appear with a list of different operating systems that you can install. We recommend that you use Raspbian – tick the box next to Raspbian and click on **Install**.
 
   ![](images/noobs.png)
@@ -70,7 +70,7 @@ An alternative to using NOOBS to install Raspbian, is to download and install th
 1. When the install process has completed, the Raspberry Pi configuration menu (`raspi-config`) will load. Here you are able to set the time and date for your region and enable a Raspberry Pi camera board, or even create users. You can exit this menu by using **Tab** on your keyboard to move to **Finish**.
 1. If you downloaded Raspbian and imaged it using etcher rather than using NOOBS, then you will boot directly to the desktop environment of Raspbian and will not need to wait.
 
-# What next?
+## What next?
 - Learn how to [update your SD Card](update-sd-card.md)
 - Connect your Raspberry Pi to [wifi](wifi.md)
 - Install more [applications](install-apps.md)

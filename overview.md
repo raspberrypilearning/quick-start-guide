@@ -1,1 +1,1 @@
-In this resource you will make a something do a something so that your something can do something and use something to control the something.
+Got a Raspberry Pi? Great, let's get started by making sure you have all the cables and accessories before plugging them all in and logging in for the first time.

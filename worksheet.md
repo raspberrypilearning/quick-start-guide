@@ -66,9 +66,10 @@ An alternative to using NOOBS to install Raspbian, is to download and install th
 
 1. Raspbian will then run through its installation process. *Note this can take a while.*
 1. When the install process has completed, the Raspberry Pi configuration menu (`raspi-config`) will load. Here you are able to set the time and date for your region and enable a Raspberry Pi camera board, or even create users. You can exit this menu by using **Tab** on your keyboard to move to **Finish**.
-1. If you image Raspbian then you will boot directly to the desktop environment of Raspbian and will not need to wait.
+1. If you downloaded Raspbian and imaged it using etcher rather than using NOOBS, then you will boot directly to the desktop environment of Raspbian and will not need to wait.
 
 # What next?
 - Learn how to [update your SD Card](update-sd-card.md)
 - Connect your Raspberry Pi to [wifi](wifi.md)
 - Install more [applications](install-apps.md)
+- Get started learning or making with our free [resources](https://www.raspberrypi.org/resources/)

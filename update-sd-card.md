@@ -14,7 +14,7 @@ You will need to type a command into a terminal window or on the command line on
   ```
 1. Then press **Enter** on the keyboard.
 
-You will see...
+ You will see some text appear very quickly. Simply wait for the progress indictator at the bottom reach 100% and then you will be returned to command line prompt. 
 
 ## Upgrade
 

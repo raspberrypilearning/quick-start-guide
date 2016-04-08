@@ -24,7 +24,7 @@ It is best to format your SD card on your computer or laptop before copying the 
 
   ![](images/SD-Formatter.jpg)
 
-## Download & Drag and drop NOOBS files
+### Download & Drag and drop NOOBS files
 
 1. Using a computer with an SD card reader, visit the official Raspberry Pi [Downloads page](http://www.raspberrypi.org/downloads/).
 1. Click on **NOOBS**.
@@ -36,7 +36,7 @@ It is best to format your SD card on your computer or laptop before copying the 
 
   [![Download and install NOOBS video](https://i.vimeocdn.com/video/469685790_100x75.webp)](https://vimeo.com/90518800)
 
-## Or download & image Raspbian
+### Or download & image Raspbian
 An alternative to using NOOBS to install Raspbian, is to download and install the image directly. This is a faster process and great if you need to image multiple cards for a workshop or class.
 
 1. Using a computer with an SD card reader, visit the official Raspberry Pi [Downloads page](http://www.raspberrypi.org/downloads/).

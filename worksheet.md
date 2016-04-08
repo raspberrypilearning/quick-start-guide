@@ -48,6 +48,8 @@ An alternative to using NOOBS to install Raspbian, is to download and install th
 1. Then select the SD card drive. Note that the software may have already selected thr right drive.
 1. Finally click **Burn** to transfer Raspbian to the SD card. You will see a progress bar that tells you how much is left to do. Once complete the utility will automatically eject or unmount the SD card so it is safe to remove it from the computer.
 
+  ![](images/etcher.gif)
+
 # Plugging in your Raspberry Pi
 1. Begin by slotting your SD card into the SD card slot on the Raspberry Pi, which will only fit one way.
 1. Next, plug in your USB keyboard and Mouse into the USB slots on the Raspberry Pi.

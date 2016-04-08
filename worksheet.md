@@ -37,7 +37,6 @@ It is best to format your SD card on your computer or laptop before copying the 
 1. When this process has finished, safely remove the SD card and insert it into your Raspberry Pi.
 
 <iframe src="https://player.vimeo.com/video/90518800" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/90518800">Getting started with NOOBS</a> from <a href="https://vimeo.com/raspberrypi">Raspberry Pi Foundation</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 ### Or download & image Raspbian
 An alternative to using NOOBS to install Raspbian, is to download and install the image directly. This is a faster process and great if you need to image multiple cards for a workshop or class.
@@ -63,7 +62,6 @@ An alternative to using NOOBS to install Raspbian, is to download and install th
 1. If this is the first time your Raspberry Pi and SD card have been used, then you will have to select an operating system and configure it.
 
 <iframe src="https://player.vimeo.com/video/91631396" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/91631396">Setting up your Raspberry Pi</a> from <a href="https://vimeo.com/raspberrypi">Raspberry Pi Foundation</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 ## First time you power on
 1. Once you have plugged in the power cable to your Raspberry Pi it will boot and if you are using NOOBS a window will appear with a list of different operating systems that you can install. We recommend that you use Raspbian – tick the box next to Raspbian and click on **Install**.

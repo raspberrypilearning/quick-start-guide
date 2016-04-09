@@ -29,7 +29,13 @@ It is best to format your SD card on your computer or laptop before copying the 
 ### Download & Drag and drop NOOBS files
 
 1. Using a computer with an SD card reader, visit the official Raspberry Pi [Downloads page](http://www.raspberrypi.org/downloads/).
+
+  ![](images/siteHome.png)
+
 1. Click on **NOOBS**.
+
+  ![](images/noobs1.png)
+
 1. Click on the Download ZIP button under ‘NOOBS (offline and network install)’, and select a folder to save it to.
 1. Extract the files from the zip.
 1. Once your SD card has been formatted, drag all the files in the extracted NOOBS folder and drop them onto the SD card drive.
@@ -44,8 +50,14 @@ An alternative to using NOOBS to install Raspbian, is to download and install th
 
 1. Using a computer with an SD card reader, visit the official Raspberry Pi [Downloads page](http://www.raspberrypi.org/downloads/).
 1. Click on **Raspbian**.
-. Click on the Download ZIP button under ‘Raspbian Jessie (full desktop image)’, and select a folder to save it to.
+
+  ![](images/noobs1.png)
+
+1. Click on the Download ZIP button under ‘Raspbian Jessie (full desktop image)’, and select a folder to save it to.
 1. Extract the files from the zip.
+
+  ![](images/noobs2.png)
+
 1. Visit [etcher.io](http://www.etcher.io/) and download and install the Etcher SD card image utility.
 1. Run Etcher and select the Raspbian image you unzipped on your computer or laptop.
 1. Then select the SD card drive. Note that the software may have already selected thr right drive.
@@ -77,4 +89,5 @@ An alternative to using NOOBS to install Raspbian, is to download and install th
 - Learn how to [update your SD Card](update-sd-card.md)
 - Connect your Raspberry Pi to [wifi](wifi.md)
 - Install more [applications](install-apps.md)
+- Discover how to [back up your SD Card](backup.md)
 - Get started learning or making with our free [resources](https://www.raspberrypi.org/resources/)

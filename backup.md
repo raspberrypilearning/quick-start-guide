@@ -8,12 +8,12 @@ If you have a USB flash drive or portable hard drive with enough storage, then t
 
 1. Insert your USB drive into one of your Pi's USB ports; it should be recognised straight away.
 
-  ![USB](images/backup/usb1.png)
+  ![USB](images/usb1.png)
 
 2. Open the USB drive in *File Manager*.
 3. Use *File Manager* to open a second window and position it side by side.
 
-  ![USB](images/backup/usb2.png)
+  ![USB](images/usb2.png)
 
 4. You can now copy the contents of `/home/pi` onto the USB drive.
 
@@ -50,27 +50,27 @@ You're going to need your Raspberry Pi's IP address to copy files over a network
 2. Go to [the WinSCP download page](http://winscp.net/eng/download.php).
 3. Download the portable executable:
 
-  ![winscp](images/backup/winscp1.png)
+  ![winscp](images/winscp1.png)
 
 4. If you check in your Downloads folder, you should see the following files. Double-click on the WinSCP **application** (not the MS-DOS application):
 
-  ![winscp](images/backup/winscp2.png)
+  ![winscp](images/winscp2.png)
 
 5. Double-click the file and then click on *Run*:
 
-  ![winscp](images/backup/winscp3.png)
+  ![winscp](images/winscp3.png)
 
 6. On the next screen, fill in the IP address of the Pi, and the username and password:
 
-  ![winscp](images/backup/winscp4.png)
+  ![winscp](images/winscp4.png)
 
 7. A warning will pop up, asking whether you trust the computer or not. Click on *Yes*:
 
-  ![winscp](images/backup/winscp5.png)
+  ![winscp](images/winscp5.png)
 
 8. The next screen will allow you to transfer files between the machines by dragging and dropping from one pane to another:
 
-  ![winscp](images/backup/winscp6.png)
+  ![winscp](images/winscp6.png)
 
 ## Backing up by accessing the SD card on Linux
 
@@ -79,11 +79,11 @@ If you are using a Linux machine, then you can copy the files directly from the 
 1. Shut down the Raspberry Pi, remove the micro SD card, and place it into an SD card adaptor. Then insert this into your machine.
 2. The screenshot below shows the SD card mounted on a machine running Ubuntu:
 
-  ![SD](images/backup/SD1.png)
+  ![SD](images/SD1.png)
 
 3. You files will be in `home/pi`, so double-click on the `home` directory and copy the entire `pi` directory to your local machine:
 
-  ![SD](images/backup/SD2.png)
+  ![SD](images/SD2.png)
 
 Click on the link to go back to [Installing Raspbian with NOOBS](worksheet.md)
 

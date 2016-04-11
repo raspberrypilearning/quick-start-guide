@@ -72,6 +72,9 @@ An alternative to using NOOBS to install Raspbian, is to download and install th
 1. Then connect your HDMI cable from your Raspberry Pi to your monitor or TV.
 1. If you intend to connect your Raspberry Pi to the internet, plug in an ethernet cable into the ethernet port next to the USB ports, otherwise skip this step.
 1. When you are happy that you have plugged in all the cables and SD card required, finally plug in the micro usb power supply. This action will turn on and boot your Raspberry Pi.
+
+  ![Plugging in](images/plug-in.gif)
+
 1. If this is the first time your Raspberry Pi and SD card have been used, then you will have to select an operating system and configure it.
 
 <iframe src="https://player.vimeo.com/video/91631396" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>

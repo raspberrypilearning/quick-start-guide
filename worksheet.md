@@ -53,7 +53,7 @@ An alternative to using NOOBS to install Raspbian, is to download and install th
 
   ![](images/noobs1.png)
 
-1. Click on the Download ZIP button under ‘Raspbian Jessie (full desktop image)’, and select a folder to save it to.
+1. Click on the **Download ZIP** button under ‘Raspbian Jessie (full desktop image)’, and select a folder to save it to.
 1. Extract the files from the zip.
 
   ![](images/noobs2.png)
@@ -61,17 +61,17 @@ An alternative to using NOOBS to install Raspbian, is to download and install th
 1. Visit [etcher.io](http://www.etcher.io/) and download and install the Etcher SD card image utility.
 1. Run Etcher and select the Raspbian image you unzipped on your computer or laptop.
 1. Then select the SD card drive. Note that the software may have already selected the right drive.
-1. Finally click **Burn** to transfer Raspbian to the SD card. You will see a progress bar that tells you how much is left to do. Once complete the utility will automatically eject or unmount the SD card so it is safe to remove it from the computer.
+1. Finally click **Burn** to transfer Raspbian to the SD card. You will see a progress bar that tells you how much is left to do. Once complete, the utility will automatically eject or unmount the SD card so it is safe to remove it from the computer.
 
   ![](images/etcher.gif)
 
 ## Plugging in your Raspberry Pi
-1. Begin by slotting your SD card into the SD card slot on the Raspberry Pi, which will only fit one way.
-1. Next, plug in your USB keyboard and Mouse into the USB slots on the Raspberry Pi.
+1. Begin by slotting your SD card into the SD card slot on the Raspberry Pi. It will only fit one way.
+1. Next, plug in your USB keyboard and mouse into the USB slots on the Raspberry Pi.
 1. Make sure that your monitor or TV is turned on, and that you have selected the right input (e.g. HDMI 1, DVI, etc)
-1. Then connect your HDMI cable from your Raspberry Pi to your monitor or TV.
-1. If you intend to connect your Raspberry Pi to the internet, plug in an ethernet cable into the ethernet port next to the USB ports, otherwise skip this step.
-1. When you are happy that you have plugged in all the cables and SD card required, finally plug in the micro usb power supply. This action will turn on and boot your Raspberry Pi.
+1. Connect your HDMI cable from your Raspberry Pi to your monitor or TV.
+1. If you intend to connect your Raspberry Pi to the internet, plug an ethernet cable into the ethernet port next to the USB ports, or connect a WiFi dongle to one of the USB ports. 
+1. When you are happy that you have plugged all the cables and SD card in correctly, connect the micro USB power supply. This action will turn on and boot your Raspberry Pi.
 
   ![Plugging in](images/plug-in.gif)
 

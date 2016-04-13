@@ -1,19 +1,19 @@
 # Raspberry Pi Quick Start Guide
 
-Got a Raspberry Pi? Great, let's get started by making sure you have all the cables and accessories before plugging them all in and logging in for the first time.
+Got a Raspberry Pi? Great: let's get started by making sure you have all the cables and accessories before plugging them all in and logging in for the first time.
 
 ## Check you have the equipment you need
 Before you plug anything into your Raspberry Pi, make sure that you have [all the equipment listed here](https://www.raspberrypi.org/learning/quick-start-guide/requirements/)
 
 ![](images/all-the-things.png)
 
-To get started with Raspberry Pi you also need an operating system. NOOBS (New Out Of the Box Software) is an easy operating system install manager for the Raspberry Pi. *Raspbian* is the operating system that we use with the Raspberry Pi which you can download and image to an SD card.
+To get started with Raspberry Pi you also need an operating system. NOOBS (New Out Of the Box Software) is an easy operating system install manager for the Raspberry Pi. Raspbian is the operating system that we use with the Raspberry Pi. You can download a Raspbian image to an SD card.
 
 ### Buy a preinstalled SD Card
 
 The easiest way to get NOOBS or Raspbian is to buy an SD card with the software already installed, available online from various resellers. If you have purchased one of these cards then you can skip to step 3 below.
 
-Alternatively, if you have an SD card (8GB recommended), then you can download NOOBS or Raspbian for free and install it on your card.
+Alternatively, if you have a spare SD card (8GB recommended), then you can download NOOBS or Raspbian for free and install it on your card.
 
 ## Format your SD Card
 

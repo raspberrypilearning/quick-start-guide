@@ -88,7 +88,7 @@ If you are using a Linux machine, then you can copy the files directly from the 
 Click on the link to go back to [Installing Raspbian with NOOBS](worksheet.md)
 
 ## What next?
-- Return to [Quick Start Guide](worksheet.md)
+- Return to the [Quick Start Guide](worksheet.md)
 - Learn how to [update your SD Card](update-sd-card.md)
 - Install more [applications](install-apps.md)
-- Connect to [wifi](wifi.md)
+- Connect to [WiFi](wifi.md)

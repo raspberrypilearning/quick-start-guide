@@ -36,7 +36,7 @@ It is best to format your SD card on your computer or laptop before copying the 
 
   ![](images/noobs1.png)
 
-1. Click on the Download ZIP button under ‘NOOBS (offline and network install)’, and select a folder to save it to.
+1. Click on the **Download ZIP** button under ‘NOOBS (offline and network install)’, and select a folder to save it to.
 1. Extract the files from the zip.
 1. Once your SD card has been formatted, drag all the files in the extracted NOOBS folder and drop them onto the SD card drive.
 1. The necessary files will then be transferred to your SD card.
@@ -45,8 +45,8 @@ It is best to format your SD card on your computer or laptop before copying the 
 <iframe src="https://player.vimeo.com/video/90518800" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <p></p>
 
-### Or download & image Raspbian
-An alternative to using NOOBS to install Raspbian, is to download and install the image directly. This is a faster process and great if you need to image multiple cards for a workshop or class.
+### Download and image Raspbian directly
+An alternative to using NOOBS to install Raspbian is to download and install the image directly. This is a faster process and great if you need to image multiple cards for a workshop or class.
 
 1. Using a computer with an SD card reader, visit the official Raspberry Pi [Downloads page](http://www.raspberrypi.org/downloads/).
 1. Click on **Raspbian**.
@@ -70,7 +70,7 @@ An alternative to using NOOBS to install Raspbian, is to download and install th
 1. Next, plug in your USB keyboard and mouse into the USB slots on the Raspberry Pi.
 1. Make sure that your monitor or TV is turned on, and that you have selected the right input (e.g. HDMI 1, DVI, etc)
 1. Connect your HDMI cable from your Raspberry Pi to your monitor or TV.
-1. If you intend to connect your Raspberry Pi to the internet, plug an ethernet cable into the ethernet port next to the USB ports, or connect a WiFi dongle to one of the USB ports. 
+1. If you intend to connect your Raspberry Pi to the internet, plug an ethernet cable into the ethernet port, or connect a WiFi dongle to one of the USB ports. 
 1. When you are happy that you have plugged all the cables and SD card in correctly, connect the micro USB power supply. This action will turn on and boot your Raspberry Pi.
 
   ![Plugging in](images/plug-in.gif)
@@ -79,12 +79,12 @@ An alternative to using NOOBS to install Raspbian, is to download and install th
 
 <iframe src="https://player.vimeo.com/video/91631396" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-## First time you power on
-1. Once you have plugged in the power cable to your Raspberry Pi it will boot and if you are using NOOBS a window will appear with a list of different operating systems that you can install. We recommend that you use Raspbian – tick the box next to Raspbian and click on **Install**.
+## The first time you power on
+1. Once you have plugged in the power cable to your Raspberry Pi it will boot and if you are using NOOBS a window will appear with a list of different operating systems that you can install. We recommend that you use Raspbian: tick the box next to Raspbian and click on **Install**.
 
   ![](images/noobs.png)
 
-1. Raspbian will then run through its installation process. *Note this can take a while.*
+1. Raspbian will then run through its installation process. Please note that this can take a while.
 1. When the install process has completed, the Raspberry Pi configuration menu (`raspi-config`) will load. Here you are able to set the time and date for your region and enable a Raspberry Pi camera board, or even create users. You can exit this menu by using **Tab** on your keyboard to move to **Finish**.
 1. If you downloaded Raspbian and imaged it using Etcher rather than using NOOBS, then you will boot directly to the desktop environment of Raspbian and will not need to wait.
 

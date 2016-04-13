@@ -18,7 +18,7 @@ You will need to type a command into a terminal window or on the command line on
 
 ## Upgrade
 
-Once the update process is complete, and any information abou new versions of applications are downloaded, you will need to install the upgrades.
+Once the update process is complete, and any information about new versions of applications are downloaded, you will need to install the upgrades.
 
 1. In a terminal window or on the command line type:
 

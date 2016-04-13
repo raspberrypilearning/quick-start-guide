@@ -76,7 +76,7 @@ You're going to need your Raspberry Pi's IP address to copy files over a network
 
 If you are using a Linux machine, then you can copy the files directly from the SD card.
 
-1. Shut down the Raspberry Pi, remove the micro SD card, and place it into an SD card adaptor. Then insert this into your machine.
+1. Shut down the Raspberry Pi, remove the micro SD card, and place it into an SD card adapter. Then insert this into your machine.
 2. The screenshot below shows the SD card mounted on a machine running Ubuntu:
 
   ![SD](images/SD1.png)
@@ -85,10 +85,11 @@ If you are using a Linux machine, then you can copy the files directly from the 
 
   ![SD](images/SD2.png)
 
-Click on the link to go back to [Installing Raspbian with NOOBS](worksheet.md)
+Click on the link to go back to [Installing Raspbian with NOOBS](worksheet.md).
 
 ## What next?
+
 - Return to the [Quick Start Guide](worksheet.md)
-- Learn how to [update your SD Card](update-sd-card.md)
+- Learn how to [update your SD card](update-sd-card.md)
 - Install more [applications](install-apps.md)
 - Connect to [WiFi](wifi.md)

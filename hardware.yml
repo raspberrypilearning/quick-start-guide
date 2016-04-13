@@ -2,13 +2,13 @@
   img: raspberry-pi
 - name: Monitor or TV
   img: monitor
-- name: HDMI Cable
-  img: hdmi-lead
-- name: USB Keyboard
+- name: HDMI cable
+  img: hdmi-cable
+- name: USB keyboard
   img: keyboard
-- name: USB Mouse
+- name: USB mouse
   img: mouse
-- name: Power Supply
+- name: Power supply
   img: power-supply
-- name: 8GB SD Card
+- name: 8GB SD card
   img: noobs-card

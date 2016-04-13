@@ -7,7 +7,7 @@ Before you plug anything into your Raspberry Pi, make sure that you have [all th
 
 ![](images/all-the-things.png)
 
-To get started with Raspberry Pi you also need an operating system. NOOBS (New Out Of the Box Software) is an easy operating system install manager for the Raspberry Pi. Raspbian is the operating system that we use with the Raspberry Pi. You can download a Raspbian image to an SD card.
+To get started with Raspberry Pi you also need an operating system. NOOBS (New Out Of Box Software) is an easy operating system install manager for the Raspberry Pi. Raspbian is the operating system that we use with the Raspberry Pi. You can download a Raspbian image to an SD card.
 
 ### Buy a preinstalled SD Card
 
@@ -26,7 +26,7 @@ It is best to format your SD card on your computer or laptop before copying the 
 
   ![](images/SD-Formatter.jpg)
 
-### Download & Drag and drop NOOBS files
+### Download NOOBS files, then drag and drop
 
 1. Using a computer with an SD card reader, visit the official Raspberry Pi [Downloads page](http://www.raspberrypi.org/downloads/).
 
@@ -86,11 +86,11 @@ An alternative to using NOOBS to install Raspbian, is to download and install th
 
 1. Raspbian will then run through its installation process. *Note this can take a while.*
 1. When the install process has completed, the Raspberry Pi configuration menu (`raspi-config`) will load. Here you are able to set the time and date for your region and enable a Raspberry Pi camera board, or even create users. You can exit this menu by using **Tab** on your keyboard to move to **Finish**.
-1. If you downloaded Raspbian and imaged it using etcher rather than using NOOBS, then you will boot directly to the desktop environment of Raspbian and will not need to wait.
+1. If you downloaded Raspbian and imaged it using Etcher rather than using NOOBS, then you will boot directly to the desktop environment of Raspbian and will not need to wait.
 
 ## What next?
 - Learn how to [update your SD Card](update-sd-card.md)
-- Connect your Raspberry Pi to [wifi](wifi.md)
+- Connect your Raspberry Pi to [WiFi](wifi.md)
 - Install more [applications](install-apps.md)
 - Discover how to [back up your SD Card](backup.md)
 - Get started learning or making with our free [resources](https://www.raspberrypi.org/resources/)

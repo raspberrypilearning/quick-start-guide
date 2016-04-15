@@ -4,7 +4,7 @@ Got a Raspberry Pi? Great: let's get started by making sure you have all the cab
 
 ## Check you have the equipment you need
 
-Before you plug anything into your Raspberry Pi, make sure that you have all the equipment you need.
+Before you plug anything into your Raspberry Pi, make sure that you have all the equipment you have [all the equipment listed here](https://www.raspberrypi.org/learning/quick-start-guide/requirements/).
 
 ![](images/all-the-things.png)
 
